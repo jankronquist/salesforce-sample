@@ -1,0 +1,14 @@
+target/
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.DS_Store
+data/
+.idea/
+*~
+.*.swp
+accessToken.properties
+clientConfig.properties
